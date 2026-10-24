@@ -1,5 +1,5 @@
 {
-  "version": "1.5.9_rc1",
-  "url": "https://github.com/sskrn/dl01-releases/releases/download/v.1.5.9_rc1/DL01_RS232_WiFi.bin",
-  "notes": "v1.5.9_rc1: stabilization improvements"
+  "version": "1.5.9_rc5",
+  "url": "https://github.com/sskrn/dl01-releases/releases/download/v.1.5.9_rc5/DL01_RS232_WiFi.bin",
+  "notes": "v1.5.9_rc5: memory stability (no lost records under portal load), update mode for cloud updates, correct timestamps before NTP sync, SD card stays in use through memory dips."
 }
